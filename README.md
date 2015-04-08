@@ -1,5 +1,5 @@
 # dotfiles
-Arquivo de configuração do VIM
+My dotfiles 
 
 Thanks
 ======
